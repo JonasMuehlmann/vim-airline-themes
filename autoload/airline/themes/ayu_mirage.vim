@@ -1,18 +1,18 @@
 " Normal mode
 " (Dark)
 let s:N1 = [ '#212733' , '#BBE67E' , 0   , 114 ] " guifg guibg ctermfg ctermbg
-let s:N2 = [ '#BBE67E' , '#212733' , 114 , 0   ] " guifg guibg ctermfg ctermbg
-let s:N3 = [ '#E6E1CF' , '#212733' , 15  , 0   ] " guifg guibg ctermfg ctermbg
+let s:N2 = [ '#BBE67E' , '#181818' , 114 , 0   ] " guifg guibg ctermfg ctermbg
+let s:N3 = [ '#E6E1CF' , '#181818' , 15  , 0   ] " guifg guibg ctermfg ctermbg
 
 " Insert mode
 let s:I1 = [ '#212733' , '#80D4FF' , 0   , 80  ] " guifg guibg ctermfg ctermbg
-let s:I2 = [ '#80D4FF' , '#212733' , 80  , 0   ] " guifg guibg ctermfg ctermbg
-let s:I3 = [ '#E6E1CF' , '#212733' , 15  , 0   ] " guifg guibg ctermfg ctermbg
+let s:I2 = [ '#80D4FF' , '#181818' , 80  , 0   ] " guifg guibg ctermfg ctermbg
+let s:I3 = [ '#E6E1CF' , '#181818' , 15  , 0   ] " guifg guibg ctermfg ctermbg
 
 " Visual mode
 let s:V1 = [ '#212733' , '#FFAE57' , 0   , 173 ] " guifg guibg ctermfg ctermbg
-let s:V2 = [ '#FFAE57' , '#212733' , 173 , 0   ] " guifg guibg ctermfg ctermbg
-let s:V3 = [ '#E6E1CF' , '#212733' , 15  , 0   ] " guifg guibg ctermfg ctermbg
+let s:V2 = [ '#FFAE57' , '#181818' , 173 , 0   ] " guifg guibg ctermfg ctermbg
+let s:V3 = [ '#E6E1CF' , '#181818' , 15  , 0   ] " guifg guibg ctermfg ctermbg
 
 " Replace mode
 let s:RE = [ '#212733' , '#F07178' , 0   , 167 ] " guifg guibg ctermfg ctermbg
